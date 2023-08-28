@@ -1,0 +1,9 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Tu Página de Haxball</title>
+</head>
+<body>
+    <script src="script.txt"></script>
+</body>
+</html>
